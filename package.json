@@ -1,0 +1,22 @@
+{
+  "name": "domain-http-request",
+  "version": "1.0.0",
+  "description": "NodeJS Library agnostic Domain Http Request Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkisx/domain-http-request.git"
+  },
+  "author": "Alkiviadis Doulgeris",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/alkisx/domain-http-request/issues"
+  },
+  "homepage": "https://github.com/alkisx/domain-http-request#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
+}

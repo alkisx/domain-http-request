@@ -1,2 +1,2 @@
 # domain-http-request
-NodeJS Library agnostic Domain Http Request Helper
+NodeJS Library Domain Http Request Helper using GOT (https://www.npmjs.com/package/got)

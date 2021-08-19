@@ -105,3 +105,6 @@ dist
 
 # jetbrains
 .idea/
+
+#simulate
+simulate.js

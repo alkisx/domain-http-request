@@ -108,3 +108,6 @@ dist
 
 #simulate
 simulate.js
+
+#settings
+.npmrc

@@ -1,6 +1,6 @@
 {
   "name": "@alkisx/domain-http-request",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "NodeJS Library agnostic Domain Http Request Helper",
   "main": "index.js",
   "type": "module",

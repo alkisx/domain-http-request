@@ -1,5 +1,5 @@
 {
-  "name": "@alkisx/domain-http-request",
+  "name": "domain-http-request",
   "version": "1.0.7",
   "description": "NodeJS Library agnostic Domain Http Request Helper",
   "main": "index.js",
@@ -17,9 +17,7 @@
     "url": "https://github.com/alkisx/domain-http-request/issues"
   },
   "homepage": "https://github.com/alkisx/domain-http-request#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  
   "dependencies": {
     "got": "^11.8.2"
   }

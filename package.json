@@ -1,6 +1,6 @@
 {
   "name": "domain-http-request",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "NodeJS Library agnostic Domain Http Request Helper",
   "main": "index.js",
   "type": "module",

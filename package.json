@@ -17,7 +17,6 @@
     "url": "https://github.com/alkisx/domain-http-request/issues"
   },
   "homepage": "https://github.com/alkisx/domain-http-request#readme",
-  
   "dependencies": {
     "got": "^11.8.2"
   }
